@@ -12,7 +12,7 @@ const bookings = require("./routes/api/bookings");
 const reviews = require("./routes/api/reviews");
 const path = require('path');
 const jwt = require('jsonwebtoken');
-
+//
 if (process.env.NODE_ENV === 'production') {
   app.use(express.static('frontend/build'));
   app.get('/', (req, res) => {
