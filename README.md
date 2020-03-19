@@ -1,7 +1,7 @@
 # LairBnB
 
 ## Overview
-[Live Link](https://villain-lairbnb.herokuapp.com/#/)
+[Live Link](https://lairbnbb.herokuapp.com/#/)
 
 ## Background and Overview
 LairBnB is a full stack clone of AirBnB that connects villains who want to rent out their evil lairs to everyday citizens seeking something less mundane for their vacation homes.
